@@ -4,7 +4,7 @@ This is a very simple Telegram Files Rename Bot by [@AbirHasan2005](https://t.me
 # Note
 This Repo Is Edited As Per My Needs :)
 So You Are Advised To Use Original Repo:)
-Edited By - @Harshu_xD
+Edited By - [@Harshu_xD](https://t.me/Harshu_xD)
 
 ## Features
 - Rename Videos, Documents or Audios without downloading the file.
